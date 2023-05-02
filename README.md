@@ -175,7 +175,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ## STM 32 CUBE PROGRAM :
 ~~~
 NAME:R.HEMAPRIYA
-REG.NO:212221230043
+REG.NO:212221230036
 ~~~
 ~~~
 #include "main.h"
